@@ -1,0 +1,16 @@
+div {
+    width: 30%;
+    height: 30px;
+    padding: 10px;
+    background-color: white;
+    border: dotted;
+    
+}
+p{
+    color: blue;
+    text-align: center;
+
+}
+body{
+    background-color: goldenrod;
+}
